@@ -16,6 +16,7 @@ Consider including links to helpful resources on HTML and CSS if you want to gui
 HTML Tutorial: https://www.w3schools.com/html/
 
 CSS Tutorial: https://www.w3schools.com/css/
+
 Additional Resources: You can add links to online courses, articles, or other relevant content.
 # Contributing (Optional)
 
