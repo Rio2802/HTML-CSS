@@ -12,6 +12,7 @@ Explore the different folders within the repository to discover individual HTML 
 # Learning Resources (Optional)
 
 Consider including links to helpful resources on HTML and CSS if you want to guide users towards further learning:
+
 HTML Tutorial: https://www.w3schools.com/html/
 
 CSS Tutorial: https://www.w3schools.com/css/
