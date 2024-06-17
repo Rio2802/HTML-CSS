@@ -27,9 +27,7 @@ Testing procedures (if applicable)
 # License
 
 Specify the license under which you're distributing your code. You can use a license file (LICENSE) to provide details.
-# Example Usage (Optional)
 
-Consider including screenshots or brief descriptions of some key projects to give users a glimpse of what they'll find in the repository.
 # Additional Notes
 
 Feel free to include any other relevant information that might be helpful for users exploring your projects.
